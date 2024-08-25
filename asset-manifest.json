@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Stock-market/static/css/main.86b98c39.css",
+    "main.js": "/Stock-market/static/js/main.f2078af9.js",
+    "static/media/stock.svg": "/Stock-market/static/media/stock.1e45d1fdfa0d9265b8b9e87cd4250cc3.svg",
+    "index.html": "/Stock-market/index.html",
+    "main.86b98c39.css.map": "/Stock-market/static/css/main.86b98c39.css.map",
+    "main.f2078af9.js.map": "/Stock-market/static/js/main.f2078af9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86b98c39.css",
+    "static/js/main.f2078af9.js"
+  ]
+}
